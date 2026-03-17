@@ -16,11 +16,11 @@ I am developing hands-on experience in **cloud infrastructure, networking, and s
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Operating Systems & User Management           | [Storage Tiering Lab](#)   |
+| Operating Systems & User Management           | [Storage Tiering & Partition Management](#)   |
 | Active Directory & User Lifecycle Management            | [Windows Server Domain & RBAC Implementation](#) |
 | ITSM & User Support Documentation        | [Help Desk Ticketing & Knowledge Base Simulation](#) |
 | Cloud Data Migration         | [Cloud Storage Migration](#) |
-| Enterprise OS Deployment & Sysprep            | [Windows 10/11 "Golden Image" Creation](#) |
+| Enterprise OS Deployment & Sysprep            | [Standardized OS Imaging & Deployment Lab](#) |
 
 ## Tools
 

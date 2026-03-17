@@ -19,7 +19,7 @@ I am developing hands-on experience in **cloud infrastructure, networking, and s
 | Disk Management / File System Optimization          | [Storage Tiering & Partition Management Lab](#)   |
 | Active Directory / User Lifecycle Management            | [Windows Server Domain & RBAC Implementation](#) |
 | ITSM / User Support Documentation        | [Help Desk Ticketing & Knowledge Base Simulation](#) |
-| Cloud Storage / Data Archiving         | [Google-Drive-Quota-Photos-Optimization-Lab](#) |
+| Cloud Storage / Data Archiving         | [Google Drive Quota Photos-Optimization Lab](https://github.com/pbobbitt/Google-Drive-Quota-Photos-Optimization-Lab?tab=readme-ov-file#google-drive-quota--photos-optimization-lab) | |
 | Enterprise OS Deployment            | [Standardized OS Imaging & Deployment Lab](#) |
 
 ## Tools

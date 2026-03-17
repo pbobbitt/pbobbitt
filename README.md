@@ -26,8 +26,8 @@ I am developing hands-on experience in **cloud infrastructure, networking, and s
 
 ### Infrastructure & Cloud
 <div>
-    <img src="https://img.shields.io/badge/-Google_Workspace-4285F4?&style=for-the-badge&logo=Google-Cloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Workspace-4285F4?&style=for-the-badge&logo=googleworkspace&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
 </div>
 
@@ -43,18 +43,18 @@ I am developing hands-on experience in **cloud infrastructure, networking, and s
 ### 🛠️ Professional Implementations (Pax Logistix)
 
 **Google Workspace Cloud Migration**
-Led the transition of company documentation and operational processes from paper-based systems to **Google Workspace cloud infrastructure**, improving remote accessibility, collaboration, and operational transparency.
+> Led the transition of company documentation and operational processes from paper-based systems to **Google Workspace cloud infrastructure**, improving remote accessibility, collaboration, and operational transparency.
 
 **Applicant Tracking System (ATS) Deployment**
-Researched, selected, and implemented two full-scale **Applicant Tracking Systems**, managing vendor evaluation, system configuration, user permissions, and internal adoption.
+> Researched, selected, and implemented two full-scale **Applicant Tracking Systems**, managing vendor evaluation, system configuration, user permissions, and internal adoption.
 
 ### 🧪 Technical Labs
 
 **Storage Tiering & Partition Management Lab**
-Hands-on exploration of **disk partitioning, storage tiering, and filesystem management** within a virtualized environment.
+> Hands-on exploration of **disk partitioning, storage tiering, and filesystem management** within a virtualized environment.
 
 **Help Desk Ticketing & Simulation (Coming Soon)**
-Simulating an ITSM environment to manage user support requests and develop a technical Knowledge Base (KB).
+> Simulating an ITSM environment to manage user support requests and develop a technical Knowledge Base (KB).
 
 **Active Directory & RBAC Implementation (Planned)**
-Deploying a Windows Server domain controller to manage users, groups, and permissions via Group Policy.
+> Deploying a Windows Server domain controller to manage users, groups, and permissions via Group Policy.

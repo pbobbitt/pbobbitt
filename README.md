@@ -16,11 +16,11 @@ I am developing hands-on experience in **cloud infrastructure, networking, and s
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Disk Management & File System Optimization          | [Storage Tiering & Partition Management Lab](#)   |
-| Active Directory & User Lifecycle Management            | [Windows Server Domain & RBAC Implementation](#) |
-| ITSM & User Support Documentation        | [Help Desk Ticketing & Knowledge Base Simulation](#) |
-| Cloud Storage & Data Archiving         | [Google Drive Quota & Photos Optimization Lab](#) |
-| Enterprise OS Deployment & Sysprep            | [Standardized OS Imaging & Deployment Lab](#) |
+| Disk Management / File System Optimization          | [Storage Tiering & Partition Management Lab](#)   |
+| Active Directory / User Lifecycle Management            | [Windows Server Domain & RBAC Implementation](#) |
+| ITSM / User Support Documentation        | [Help Desk Ticketing & Knowledge Base Simulation](#) |
+| Cloud Storage / Data Archiving         | [Google Drive Quota & Photos Optimization Lab](#) |
+| Enterprise OS Deployment            | [Standardized OS Imaging & Deployment Lab](#) |
 
 ## Tools
 
@@ -51,7 +51,10 @@ Researched, selected, and implemented two full-scale **Applicant Tracking System
 ### 🧪 Technical Labs
 
 **Storage Tiering & Partition Management Lab**
-Hands-on exploration of **disk partitioning, storage tiering, and filesystem management** within a virtualized operating system environment.
+Hands-on exploration of **disk partitioning, storage tiering, and filesystem management** within a virtualized environment.
 
-**Network Fundamentals Lab (In Progress)**
-Exploring networking concepts including **subnetting, packet analysis, TCP/IP fundamentals, and the OSI model**.
+**Help Desk Ticketing & Simulation (Coming Soon)**
+Simulating an ITSM environment to manage user support requests and develop a technical Knowledge Base (KB).
+
+**Active Directory & RBAC Implementation (Planned)**
+Deploying a Windows Server domain controller to manage users, groups, and permissions via Group Policy.

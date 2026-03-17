@@ -10,6 +10,7 @@ I am developing hands-on experience in **cloud infrastructure, networking, and s
 <div>
 <img src="https://img.shields.io/badge/-WGU%20BS%20Cloud%20%26%20Network%20Engineering%20(In%20Progress)-00ADEE?&style=for-the-badge&logo=Western-Governors-University&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA%20A%2B%20(Core%201%20Passed)-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20A%2B%20(Core%202%20In-Progress)-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Skills

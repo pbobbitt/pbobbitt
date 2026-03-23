@@ -58,3 +58,9 @@ I am developing hands-on experience in **cloud infrastructure, networking, and s
 
 **Active Directory & RBAC Implementation (Planned)**
 > Deploying a Windows Server domain controller to manage users, groups, and permissions via Group Policy.
+
+**Cloud Storage / Data Archiving [Google Drive Quota Photos Optimization Lab](https://github.com/pbobbitt/Google-Drive-Quota-Photos-Optimization-Lab)**
+> Migrated critical data from a near-capacity SaaS environment to local physical storage and redesigned cloud architecture to prevent future quota exhaustion.
+
+ **SaaS Administration & Storage Troubleshooting [SaaS Storage Optimization & Data Lifecycle Management](https://github.com/pbobbitt/SaaS-Storage-Optimization-Data-Lifecycle-Management-Lab)**
+> Addressed a critical storage exhaustion event within a Google Workspace environment.

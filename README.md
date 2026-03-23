@@ -16,11 +16,11 @@ I am developing hands-on experience in **cloud infrastructure, networking, and s
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Disk Management / File System Optimization          | [Storage Tiering & Partition Management Lab](#)   |
-| Active Directory / User Lifecycle Management            | [Windows Server Domain & RBAC Implementation](#) |
-| ITSM / User Support Documentation        | [Help Desk Ticketing & Knowledge Base Simulation](#) |
+| Disk Management / File System Optimization          | [Storage Tiering & Partition Management Lab (Coming Soon)](#)   |
+| Active Directory / User Lifecycle Management            | [Windows Server Domain & RBAC Implementation (Coming Soon)](#) |
+| ITSM / User Support Documentation        | [Help Desk Ticketing & Knowledge Base Simulation (Coming Soon)](#) |
 | Cloud Storage / Data Archiving         | [Google Drive Quota Photos Optimization Lab](https://github.com/pbobbitt/Google-Drive-Quota-Photos-Optimization-Lab) |
-| Enterprise OS Deployment            | [Standardized OS Imaging & Deployment Lab](#) |
+| Enterprise OS Deployment            | [Standardized OS Imaging & Deployment Lab (Coming Soon)](#) |
 
 ## Tools
 

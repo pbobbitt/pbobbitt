@@ -25,30 +25,21 @@ I am developing hands-on experience in **cloud infrastructure, networking, and s
 ## Tools
 
 ### Infrastructure & Cloud
-<div>
+<p align="left">
     <img src="https://img.shields.io/badge/Server-Windows%20Server%202025-0078D4?style=for-the-badge&logo=windowsserver&logoColor=white" />
-    <img src="https://img.shields.io/badge/Windows%2010/11-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/OS-Windows%2010/11-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
+</p>
 
 ### Professional Tools
-<div>
+<p align="left">
     <img src="https://img.shields.io/badge/Identity & Access Management-Active%20Directory-FF5733?style=for-the-badge&logo=microsoft-active-directory&logoColor=white" />
     <img src="https://img.shields.io/badge/Operations-Ticketing-2ea44f?style=for-the-badge&logo=helpdesk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/Hypervisor-VirtualBox-894ba9?style=for-the-badge&logo=virtualbox&logoColor=white" />
     <img src="https://img.shields.io/badge/Scripting-PowerShell-1E8449?style=for-the-badge&logo=powershell&logoColor=white" />
-</div>
-
-
-<p align="left">
-
-
-
-  <img src="https://img.shields.io/badge/Hypervisor-VirtualBox-894ba9?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scripting-PowerShell-1E8449?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
 ## Projects

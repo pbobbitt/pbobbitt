@@ -50,14 +50,14 @@ I am developing hands-on experience in **cloud infrastructure, networking, and s
 
 ### 🧪 Technical Labs
 
-[IT Support Lab Series Part 1: Windows Server 2025 & Active Directory Infrastructure](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-1-infrastructure)
+[IT Support Lab Series Part 1: Windows Server 2025 & Active Directory Infrastructure](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-1-infrastructure)  
 The primary objective of this phase was to establish a scalable, virtualized Windows Server 2025 Active Directory environment and successfully integrate a Windows 11 Education client workstation. By leveraging Oracle VirtualBox and a custom NAT Network, the project successfully created an isolated sandbox that mimics an enterprise infrastructure.
 
-[IT Support Lab Series Part 2: Identity & Access Management With Active Directory](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-2-active-directory)
+[IT Support Lab Series Part 2: Identity & Access Management With Active Directory](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-2-active-directory)  
 This project demonstrates the end-to-end deployment of a Windows Server 2025 virtual infrastructure, transitioning from a blank-slate environment to a fully automated, enterprise-ready domain. By leveraging PowerShell automation to scale the directory to 100 users and implementing a strict Least Privilege model via Group Policy Objects, the lab achieves a balance between administrative efficiency and robust security.
 
-[Google Drive Quota Photos Optimization Lab](https://github.com/pbobbitt/Google-Drive-Quota-Photos-Optimization-Lab)
+[Google Drive Quota Photos Optimization Lab](https://github.com/pbobbitt/Google-Drive-Quota-Photos-Optimization-Lab)  
 This project demonstrates migrating critical data from a near-capacity SaaS environment to local physical storage and redesigning cloud architecture to prevent future quota exhaustion. It highlights the ability to manage storage quotas, ensure data integrity, and implement multi-account orchestration (IAM) to maintain service continuity.
 
-[SaaS Data Lifecycle Management](https://github.com/pbobbitt/SaaS-Storage-Optimization-Data-Lifecycle-Management-Lab)
+[SaaS Data Lifecycle Management](https://github.com/pbobbitt/SaaS-Storage-Optimization-Data-Lifecycle-Management-Lab)  
 This project addressed a critical storage exhaustion event (91% capacity) within a Google Workspace environment that threatened service continuity for Gmail and Drive. By performing Root Cause Analysis (RCA) I was able to identify the true culptrit was a third-party application sync behavior. For this incident I recovered 43% of system capacity and implemented a sustainable archival strategy.

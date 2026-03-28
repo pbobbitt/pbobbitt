@@ -1,10 +1,17 @@
 # Hello, I'm Patrick Bobbitt
 <a href="https://linkedin.com/in/patrick-bobbitt"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an IT professional and Cloud & Network Engineering student transitioning from a career in logistics and operations. I specialize in bridging the gap between complex operational requirements and technical solutions, with a focus on delivering high-quality remote and on-site support.
+## Who I Am
+#### I specialize in:
 
-## Objective
-I am developing hands-on experience in **cloud infrastructure, networking, and systems administration** through academic labs and real-world systems implementation. My long-term goal is to build scalable infrastructure and support reliable network environments while continuing to expand my skills in cloud engineering.
+* Turning messy, manual processes into automated systems
+* Supporting users while improving the systems behind the problems
+* Bridging the gap between business operations and IT infrastructure
+
+#### What I have done:
+* Built and supported systems managing 10,000+ records
+* Delivered L1/L2 IT support across 150+ users
+* Automated onboarding workflows, reducing manual work by 60–80%
 
 ## Education & Certifications
 <div>
@@ -16,11 +23,11 @@ I am developing hands-on experience in **cloud infrastructure, networking, and s
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Domain Integration & Centralized Management | [IT Support Lab Series Part 1: Windows Server 2025 & Active Directory Infrastructure](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-1-infrastructure) |
-| Active Directory / Identity & Access Management (IAM) | [IT Support Lab Series Part 2: Identity & Access Management With Active Directory](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-2-active-directory) |
-| Help Desk Ticketing & Knowledge Base Simulation | IT Support Lab Series Part 3: Help Desk Operations & Ticketing (In Progress) |
-| Cloud Storage / Data Archiving         | [Google Drive Quota Photos Optimization Lab](https://github.com/pbobbitt/Google-Drive-Quota-Photos-Optimization-Lab) |
-| SaaS Administration  | [SaaS Data Lifecycle Management](https://github.com/pbobbitt/SaaS-Storage-Optimization-Data-Lifecycle-Management-Lab) |
+| Active Directory / Domain Management | [IT Support Lab Series Part 1: Windows Server 2025 & Active Directory Infrastructure](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-1-infrastructure) |
+| Identity & Access Management (IAM) | [IT Support Lab Series Part 2: Identity & Access Management With Active Directory](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-2-active-directory) |
+| Help Desk / Ticketing | IT Support Lab Series Part 3: Help Desk Operations & Ticketing (In Progress) |
+| Cloud Storage & Data Migration         | [Google Drive Quota Photos Optimization Lab](https://github.com/pbobbitt/Google-Drive-Quota-Photos-Optimization-Lab) |
+| SaaS Administration / Troubleshooting  | [SaaS Data Lifecycle Management](https://github.com/pbobbitt/SaaS-Storage-Optimization-Data-Lifecycle-Management-Lab) |
 
 ## Tools
 
@@ -44,24 +51,26 @@ I am developing hands-on experience in **cloud infrastructure, networking, and s
 
 ## Projects
 
-### Professional Implementations (Pax Logistix)
+### Professional Experience (Pax Logistix)
 
-**Google Workspace Cloud Migration**
-> Led the transition of company documentation and operational processes from paper-based systems to **Google Workspace cloud infrastructure**, improving remote accessibility, collaboration, and operational transparency.
+#### Applicant Tracking System (ATS) & Workflow Automation
 
-**Applicant Tracking System (ATS) Deployment**
-> Researched, selected, and implemented two full-scale **Applicant Tracking Systems**, managing vendor evaluation, system configuration, user permissions, and internal adoption.
+* Built and maintained a system supporting 10,000+ applicants, integrating APIs and automating onboarding workflows to significantly reduce manual effort.
 
+#### Google Workspace Administration & Migration
+
+* Managed user access, permissions, and system transitions while supporting day-to-day technical operations across multiple teams.
+<BR><BR>
 ### Technical Labs
 
 [IT Support Lab Series Part 1: Windows Server 2025 & Active Directory Infrastructure](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-1-infrastructure)  
-* The primary objective of this phase was to establish a scalable, virtualized Windows Server 2025 Active Directory environment and successfully integrate a Windows 11 Education client workstation. By leveraging Oracle VirtualBox and a custom NAT Network, the project successfully created an isolated sandbox that mimics an enterprise infrastructure.
+* Built a Windows Server environment with domain integration, DNS, DHCP, and endpoint management.
 
 [IT Support Lab Series Part 2: Identity & Access Management With Active Directory](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-2-active-directory)  
-* This project demonstrates the end-to-end deployment of a Windows Server 2025 virtual infrastructure, transitioning from a blank-slate environment to a fully automated, enterprise-ready domain. By leveraging PowerShell automation to scale the directory to 100 users and implementing a strict Least Privilege model via Group Policy Objects, the lab achieves a balance between administrative efficiency and robust security.
+* Implemented RBAC, GPO security policies, and automated 100+ user provisioning with PowerShell.
 
 [Google Drive Quota Photos Optimization Lab](https://github.com/pbobbitt/Google-Drive-Quota-Photos-Optimization-Lab)  
-* This project demonstrates migrating critical data from a near-capacity SaaS environment to local physical storage and redesigning cloud architecture to prevent future quota exhaustion. It highlights the ability to manage storage quotas, ensure data integrity, and implement multi-account orchestration (IAM) to maintain service continuity.
+* Resolved critical storage issue (97% capacity), implemented data migration and IAM-based architecture.
 
 [SaaS Data Lifecycle Management](https://github.com/pbobbitt/SaaS-Storage-Optimization-Data-Lifecycle-Management-Lab)  
-* This project addressed a critical storage exhaustion event (91% capacity) within a Google Workspace environment that threatened service continuity for Gmail and Drive. By performing Root Cause Analysis (RCA) I was able to identify the true culptrit was a third-party application sync behavior. For this incident I recovered 43% of system capacity and implemented a sustainable archival strategy.
+* Performed root cause analysis and recovered 40%+ storage capacity through structured data lifecycle management.

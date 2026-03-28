@@ -60,7 +60,7 @@ IT Support professional and Cloud & Network Engineering student with hands-on ex
 
 #### Applicant Tracking System (ATS) & Workflow Automation
 
-* Built and maintained a system supporting **10,000+ applicants**, integrating APIs and automating onboarding workflows (60–80% reduction in manual work).
+* Built and maintained a system supporting **10,000+ applicants**, integrating APIs, automating onboarding, and reducing manual labor by up to **80%**.
 
 #### Google Workspace Administration & Migration
 

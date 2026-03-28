@@ -33,7 +33,10 @@ IT support professional with hands-on experience supporting end users, managing 
 * Implemented RBAC, GPO security policies, and automated 100+ user provisioning with PowerShell.
 
 [Cloud Account Quota Management & Data Archival](https://github.com/pbobbitt/Cloud-Account-Quota-Management-And-Data-Archival)  
-* Resolved critical storage issue (97% capacity), implemented data migration and IAM-based architecture.
+* Resolved critical storage issue (97% capacity), implemented data migration.
+* Audited cloud storage usage and migrated 10GB+ of data to local storage to restore account capacity
+* Implemented a multi-account IAM-based backup strategy to prevent future storage issues and improve accessibility
+
 
 [Cloud Storage Troubleshooting & Resolution](https://github.com/pbobbitt/Cloud-Storage-Troubleshooting/tree/main)  
 * Performed root cause analysis and recovered 40%+ storage capacity through structured data lifecycle management.

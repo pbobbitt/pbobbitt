@@ -27,19 +27,25 @@ IT support professional with hands-on experience supporting end users, managing 
 ### Technical Labs
 
 [IT Support Lab Series Part 1: Windows Server 2025 & Active Directory Infrastructure](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-1-infrastructure)  
-* Built a Windows Server environment with domain integration, DNS, DHCP, and endpoint management.
+* Built a virtualized Windows Server environment with Active Directory, DNS, and DHCP in a domain-based network  
+* Configured domain integration and endpoint management, enabling centralized authentication and policy enforcement  
+* Designed and implemented a structured network environment using NAT, static IP addressing, and internal DNS  
 
 [IT Support Lab Series Part 2: Identity & Access Management With Active Directory](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-2-active-directory)  
-* Implemented RBAC, GPO security policies, and automated 100+ user provisioning with PowerShell.
+* Implemented RBAC and Group Policy Objects (GPOs) to enforce least privilege and system security controls  
+* Automated provisioning of 100+ user accounts using PowerShell, reducing manual setup and improving consistency  
+* Configured automated resource access (network drives, printers) based on user roles and organizational structure  
 
 [Cloud Account Quota Management & Data Archival](https://github.com/pbobbitt/Cloud-Account-Quota-Management-And-Data-Archival)  
-* Resolved critical storage issue (97% capacity), implemented data migration.
-* Audited cloud storage usage and migrated 10GB+ of data to local storage to restore account capacity
-* Implemented a multi-account IAM-based backup strategy to prevent future storage issues and improve accessibility
+* Resolved critical storage issue (97% capacity) by auditing usage and identifying high-volume data sources  
+* Migrated 10GB+ of data to local storage using structured backup and verification processes to ensure data integrity  
+* Implemented a multi-account IAM-based backup strategy to prevent future storage issues and improve long-term accessibility  
 
 
 [Cloud Storage Troubleshooting & Resolution](https://github.com/pbobbitt/Cloud-Storage-Troubleshooting/tree/main)  
-* Performed root cause analysis and recovered 40%+ storage capacity through structured data lifecycle management.
+* Diagnosed and resolved cloud storage issue, reducing usage from 91% to 48% and restoring system functionality  
+* Performed root cause analysis on application sync behavior to prevent recurring storage issues  
+* Implemented secure backup and data lifecycle management processes to ensure data safety and system stability  
 
 ## Skills
 

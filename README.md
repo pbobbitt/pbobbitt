@@ -11,6 +11,16 @@ IT support professional with hands-on experience supporting end users, managing 
 - Supported systems managing 10,000+ records  
 - Automated onboarding workflows, reducing manual work by 60–80%
 
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Active Directory / Domain Management | [IT Support Lab Series Part 1: Windows Server 2025 & Active Directory Infrastructure](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-1-infrastructure) |
+| Identity & Access Management (IAM) | [IT Support Lab Series Part 2: Identity & Access Management With Active Directory](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-2-active-directory) |
+| Help Desk / Ticketing | IT Support Lab Series Part 3: Help Desk Operations & Ticketing (In Progress) |
+| Cloud Storage & Data Migration | [Cloud Account Quota Management & Data Archival](https://github.com/pbobbitt/Cloud-Account-Quota-Management-And-Data-Archival) |
+| Cloud Storage / Troubleshooting  | [Cloud Storage Troubleshooting](https://github.com/pbobbitt/Cloud-Storage-Troubleshooting) |
+
 ## Projects
 
 ### Professional Experience (Pax Logistix)
@@ -68,16 +78,6 @@ IT support professional with hands-on experience supporting end users, managing 
 * Diagnosed and resolved cloud storage issue, reducing usage from 91% to 48% and restoring system functionality  
 * Performed root cause analysis on application sync behavior to prevent recurring storage issues  
 * Implemented secure backup and data lifecycle management processes to ensure data safety and system stability  
-
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Active Directory / Domain Management | [IT Support Lab Series Part 1: Windows Server 2025 & Active Directory Infrastructure](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-1-infrastructure) |
-| Identity & Access Management (IAM) | [IT Support Lab Series Part 2: Identity & Access Management With Active Directory](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-2-active-directory) |
-| Help Desk / Ticketing | IT Support Lab Series Part 3: Help Desk Operations & Ticketing (In Progress) |
-| Cloud Storage & Data Migration | [Cloud Account Quota Management & Data Archival](https://github.com/pbobbitt/Cloud-Account-Quota-Management-And-Data-Archival) |
-| Cloud Storage / Troubleshooting  | [Cloud Storage Troubleshooting](https://github.com/pbobbitt/Cloud-Storage-Troubleshooting) |
 
 #### Current Focus
 

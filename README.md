@@ -78,3 +78,10 @@ IT Support professional and Cloud & Network Engineering student with hands-on ex
 
 [SaaS Data Lifecycle Management](https://github.com/pbobbitt/SaaS-Storage-Optimization-Data-Lifecycle-Management-Lab)  
 * Performed root cause analysis and recovered 40%+ storage capacity through structured data lifecycle management.
+
+
+## Contact & Connect  
+How to reach me:  
+The best way to contact me is via [LinkedIn](https://www.linkedin.com/in/patrickbobbitt/). For technical inquiries regarding my labs, feel free to open an issue.
+
+<a href="https://linkedin.com/in/patrick-bobbitt"><img src="https://img.shields.io/badge/LinkedIn-Patrick%20Bobbitt-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />

@@ -4,7 +4,7 @@
 
 ## Summary
 
-IT support professional with experience supporting end users, managing access, and maintaining internal systems in fast-paced environments. Background in workflow-driven systems, troubleshooting, and automation.
+IT support professional with hands-on experience supporting end users, managing access, and maintaining internal systems in a fast-paced operations environment. Background in building and improving workflow-driven systems, with a focus on troubleshooting, automation, and system organization. Currently developing skills in system administration, networking, and PowerShell through hands-on labs.
 
 **Key Highlights:**
 - Provided L1/L2-style IT support for 100+ employees  

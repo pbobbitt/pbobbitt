@@ -18,17 +18,32 @@ IT support professional with hands-on experience supporting end users, managing 
 * Supported systems managing 10,000+ records
 * Automated onboarding workflows, reducing manual work by 60–80%
 
-#### Current Focus
+## Projects
 
-* IT Support / Desktop Support roles
-* Building hands-on experience in Active Directory, networking, and system administration
-* Expanding automation skills with PowerShell and scripting
+### Professional Experience (Pax Logistix)
 
-## Education & Certifications
-<div>
-</a> <img src="https://img.shields.io/badge/Education-WGU%20BS%20Cloud%20%26%20Network%20Engineering%20Student-00ADEE?style=for-the-badge&logo=google-scholar&logoColor=white" /> <a href="https://github.com/pbobbitt/pbobbitt/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf"><img src="https://img.shields.io/badge/Certification-CompTIA%20A%2B-E31837?style=for-the-badge&logo=comptia&logoColor=white" /></a>
-</a>
-</div>
+#### Applicant Tracking System (ATS) & Workflow Automation
+
+* Designed and maintained a workflow-based onboarding system supporting 10,000+ applicants, improving efficiency and reducing manual work  
+* Integrated multiple systems and data sources to streamline applicant tracking and onboarding processes
+
+#### Google Workspace Administration & Migration
+
+* Managed user access, permissions, and system transitions while supporting day-to-day technical operations across multiple teams.
+<BR><BR>
+### Technical Labs
+
+[IT Support Lab Series Part 1: Windows Server 2025 & Active Directory Infrastructure](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-1-infrastructure)  
+* Built a Windows Server environment with domain integration, DNS, DHCP, and endpoint management.
+
+[IT Support Lab Series Part 2: Identity & Access Management With Active Directory](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-2-active-directory)  
+* Implemented RBAC, GPO security policies, and automated 100+ user provisioning with PowerShell.
+
+[Cloud Account Quota Management & Data Archival](https://github.com/pbobbitt/Cloud-Account-Quota-Management-And-Data-Archival)  
+* Resolved critical storage issue (97% capacity), implemented data migration and IAM-based architecture.
+
+[Cloud Storage Troubleshooting & Resolution](https://github.com/pbobbitt/Cloud-Storage-Troubleshooting/tree/main)  
+* Performed root cause analysis and recovered 40%+ storage capacity through structured data lifecycle management.
 
 ## Skills
 
@@ -39,6 +54,12 @@ IT support professional with hands-on experience supporting end users, managing 
 | Help Desk / Ticketing | IT Support Lab Series Part 3: Help Desk Operations & Ticketing (In Progress) |
 | Cloud Storage & Data Migration | [Cloud Account Quota Management & Data Archival](https://github.com/pbobbitt/Cloud-Account-Quota-Management-And-Data-Archival) |
 | Cloud Storage / Troubleshooting  | [Cloud Storage Troubleshooting](https://github.com/pbobbitt/Cloud-Storage-Troubleshooting) |
+
+#### Current Focus
+
+* IT Support / Desktop Support roles
+* Building hands-on experience in Active Directory, networking, and system administration
+* Expanding automation skills with PowerShell and scripting
 
 ## Tools
 
@@ -60,32 +81,11 @@ IT support professional with hands-on experience supporting end users, managing 
     <img src="https://img.shields.io/badge/Virtualization-VirtualBox-894ba9?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
 
-## Projects
-
-### Professional Experience (Pax Logistix)
-
-#### Applicant Tracking System (ATS) & Workflow Automation
-
-* Designed and maintained a workflow-based onboarding system supporting 10,000+ applicants, improving efficiency and reducing manual work
-
-#### Google Workspace Administration & Migration
-
-* Managed user access, permissions, and system transitions while supporting day-to-day technical operations across multiple teams.
-<BR><BR>
-### Technical Labs
-
-[IT Support Lab Series Part 1: Windows Server 2025 & Active Directory Infrastructure](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-1-infrastructure)  
-* Built a Windows Server environment with domain integration, DNS, DHCP, and endpoint management.
-
-[IT Support Lab Series Part 2: Identity & Access Management With Active Directory](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-2-active-directory)  
-* Implemented RBAC, GPO security policies, and automated 100+ user provisioning with PowerShell.
-
-[Cloud Account Quota Management & Data Archival](https://github.com/pbobbitt/Cloud-Account-Quota-Management-And-Data-Archival)  
-* Resolved critical storage issue (97% capacity), implemented data migration and IAM-based architecture.
-
-[Cloud Storage Troubleshooting & Resolution](https://github.com/pbobbitt/Cloud-Storage-Troubleshooting/tree/main)  
-* Performed root cause analysis and recovered 40%+ storage capacity through structured data lifecycle management.
-
+## Education & Certifications
+<div>
+</a> <img src="https://img.shields.io/badge/Education-WGU%20BS%20Cloud%20%26%20Network%20Engineering%20Student-00ADEE?style=for-the-badge&logo=google-scholar&logoColor=white" /> <a href="https://github.com/pbobbitt/pbobbitt/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf"><img src="https://img.shields.io/badge/Certification-CompTIA%20A%2B-E31837?style=for-the-badge&logo=comptia&logoColor=white" /></a>
+</a>
+</div>
 
 ## Contact & Connect  
 How to reach me:  

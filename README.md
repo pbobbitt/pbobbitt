@@ -31,6 +31,7 @@ IT support professional with hands-on experience supporting end users, managing 
 * Designed and maintained structured cloud-based documentation and access controls to improve data organization and security practices
 
 #### Operational Workflow Automation (Disciplinary System)
+*Policy enforcement, escalation tracking, and documentation system*
 
 * Designed and implemented a standardized disciplinary workflow system to ensure consistency in policy enforcement and documentation  
 * Built an automated pipeline using Google Forms, Sheets, and Apps Script to generate, track, and store corrective action records  
@@ -38,6 +39,7 @@ IT support professional with hands-on experience supporting end users, managing 
 * Centralized all records into an indexed system with linked documentation, improving accessibility, auditability, and data consistency
 
 #### Operational Workflow Automation (Training System)
+*Performance tracking, coaching workflows, and follow-up automation*
 
 * Designed and implemented a structured training and coaching system to track employee performance and standardize coaching processes  
 * Built a data pipeline using Google Forms, Sheets, and Apps Script to collect, process, and transform raw training data into a readable coaching log  

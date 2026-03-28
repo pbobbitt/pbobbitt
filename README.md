@@ -31,7 +31,7 @@ IT Support professional and Cloud & Network Engineering student with hands-on ex
 | Active Directory / Domain Management | [IT Support Lab Series Part 1: Windows Server 2025 & Active Directory Infrastructure](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-1-infrastructure) |
 | Identity & Access Management (IAM) | [IT Support Lab Series Part 2: Identity & Access Management With Active Directory](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-2-active-directory) |
 | Help Desk / Ticketing | IT Support Lab Series Part 3: Help Desk Operations & Ticketing (In Progress) |
-| Cloud Storage & Data Migration         | [Google Drive Quota Photos Optimization Lab](https://github.com/pbobbitt/Google-Drive-Quota-Photos-Optimization-Lab) |
+| Cloud Storage & Data Migration | [Cloud Account Quota Management & Data Archival](https://github.com/pbobbitt/Google-Drive-Quota-Photos-Optimization-Lab) |
 | Cloud Storage / Troubleshooting  | [Cloud Storage Troubleshooting & Resolution](https://github.com/pbobbitt/Cloud-Storage-Troubleshooting/tree/main) |
 
 ## Tools

@@ -81,7 +81,6 @@ IT support professional with hands-on experience supporting end users, managing 
 </div>
 
 ## Contact & Connect  
-How to reach me:  
 The best way to contact me is via [LinkedIn](https://www.linkedin.com/in/patrickbobbitt/). For technical inquiries regarding my labs, feel free to open an issue.
 
 <p align="left">

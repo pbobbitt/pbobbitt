@@ -15,14 +15,35 @@ IT support professional with hands-on experience supporting end users, managing 
 
 ### Professional Experience (Pax Logistix)
 
-#### Applicant Tracking System (ATS) & Workflow Automation
+#### Applicant Tracking System (ATS) & Workflow Automation  
+*Production system supporting 10,000+ applicants*
 
-* Designed and maintained a workflow-based onboarding system supporting 10,000+ applicants, improving efficiency and reducing manual work  
-* Integrated multiple systems and data sources to streamline applicant tracking and onboarding processes
+* Designed and maintained a multi-stage onboarding workflow (18+ steps) to manage applicant progression from application to first day  
+* Automated key onboarding processes using ATS workflows, reducing manual administrative workload by ~60–70%  
+* Integrated external tools (Calendly, Google Sheets, APIs) to build a centralized tracking system for applicant status and onboarding progress  
 
-#### Google Workspace Administration & Migration
 
-* Managed user access, permissions, and system transitions while supporting day-to-day technical operations across multiple teams.
+#### Google Workspace Administration & Migration  
+*User access, system transitions, and internal system management*
+
+* Migrated internal operational systems from Microsoft 365 to Google Workspace, ensuring cross-platform compatibility and continuity  
+* Managed user access, permissions, and document structure for internal systems used by management teams  
+* Designed and maintained structured cloud-based documentation and access controls to improve data organization and security practices
+
+#### Operational Workflow Automation (Disciplinary System)
+
+* Designed and implemented a standardized disciplinary workflow system to ensure consistency in policy enforcement and documentation  
+* Built an automated pipeline using Google Forms, Sheets, and Apps Script to generate, track, and store corrective action records  
+* Implemented escalation logic to track employee history and guide appropriate disciplinary actions (verbal → write-up → termination)  
+* Centralized all records into an indexed system with linked documentation, improving accessibility, auditability, and data consistency
+
+#### Operational Workflow Automation (Training System)
+
+* Designed and implemented a structured training and coaching system to track employee performance and standardize coaching processes  
+* Built a data pipeline using Google Forms, Sheets, and Apps Script to collect, process, and transform raw training data into a readable coaching log  
+* Automated follow-up workflows by integrating Google Calendar event generation for scheduled coaching sessions and performance reviews  
+* Centralized training records into a searchable system, improving visibility into employee performance, coaching history, and follow-up actions  
+  
 <BR><BR>
 ### Technical Labs
 

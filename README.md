@@ -2,21 +2,14 @@
 <a href="https://linkedin.com/in/patrick-bobbitt"><img src="https://img.shields.io/badge/Connect-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:pbobbitt176@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-## Who I Am
+## Summary
 
-IT support professional with hands-on experience supporting end users, managing access, and maintaining internal systems in a fast-paced operations environment. Background in building and improving workflow-driven systems, with a focus on troubleshooting, automation, and system organization. Currently developing skills in system administration, networking, and PowerShell through hands-on labs.
+IT support professional with experience supporting end users, managing access, and maintaining internal systems in fast-paced environments. Background in workflow-driven systems, troubleshooting, and automation.
 
-#### I specialize in:
-
-* Troubleshooting user issues and supporting day-to-day system operations
-* Building and improving workflow-driven systems to reduce manual work
-* Bridging business operations with practical IT solutions
-
-#### What I’ve Done
-
-* Provided L1/L2-style IT support for 100+ employees
-* Supported systems managing 10,000+ records
-* Automated onboarding workflows, reducing manual work by 60–80%
+**Key Highlights:**
+- Provided L1/L2-style IT support for 100+ employees  
+- Supported systems managing 10,000+ records  
+- Automated onboarding workflows, reducing manual work by 60–80%
 
 ## Projects
 

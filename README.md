@@ -74,10 +74,10 @@ IT Support professional and Cloud & Network Engineering student with hands-on ex
 [IT Support Lab Series Part 2: Identity & Access Management With Active Directory](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-2-active-directory)  
 * Implemented RBAC, GPO security policies, and automated 100+ user provisioning with PowerShell.
 
-[Google Drive Quota Photos Optimization Lab](https://github.com/pbobbitt/Google-Drive-Quota-Photos-Optimization-Lab)  
+[Cloud Account Quota Management & Data Archival](https://github.com/pbobbitt/Cloud-Account-Quota-Management-And-Data-Archival)  
 * Resolved critical storage issue (97% capacity), implemented data migration and IAM-based architecture.
 
-[SaaS Data Lifecycle Management](https://github.com/pbobbitt/SaaS-Storage-Optimization-Data-Lifecycle-Management-Lab)  
+[Cloud Storage Troubleshooting & Resolution](https://github.com/pbobbitt/Cloud-Storage-Troubleshooting/tree/main)  
 * Performed root cause analysis and recovered 40%+ storage capacity through structured data lifecycle management.
 
 

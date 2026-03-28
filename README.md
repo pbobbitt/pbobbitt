@@ -46,7 +46,6 @@ IT support professional with hands-on experience supporting end users, managing 
 * Automated follow-up workflows by integrating Google Calendar event generation for scheduled coaching sessions and performance reviews  
 * Centralized training records into a searchable system, improving visibility into employee performance, coaching history, and follow-up actions  
   
-<BR><BR>
 ### Technical Labs
 
 [IT Support Lab Series Part 1: Windows Server 2025 & Active Directory Infrastructure](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-1-infrastructure)  

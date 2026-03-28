@@ -32,7 +32,7 @@ IT Support professional and Cloud & Network Engineering student with hands-on ex
 | Identity & Access Management (IAM) | [IT Support Lab Series Part 2: Identity & Access Management With Active Directory](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-2-active-directory) |
 | Help Desk / Ticketing | IT Support Lab Series Part 3: Help Desk Operations & Ticketing (In Progress) |
 | Cloud Storage & Data Migration         | [Google Drive Quota Photos Optimization Lab](https://github.com/pbobbitt/Google-Drive-Quota-Photos-Optimization-Lab) |
-| SaaS Administration / Troubleshooting  | [SaaS Data Lifecycle Management](https://github.com/pbobbitt/SaaS-Storage-Optimization-Data-Lifecycle-Management-Lab) |
+| Cloud Storage / Troubleshooting  | [Cloud Storage Troubleshooting & Resolution](https://github.com/pbobbitt/Cloud-Storage-Troubleshooting/tree/main) |
 
 ## Tools
 

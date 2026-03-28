@@ -26,7 +26,7 @@ IT support professional with hands-on experience supporting end users, managing 
 #### Google Workspace Administration & Migration  
 *User access, system transitions, and internal system management*
 
-* Migrated internal operational systems from Microsoft 365 to Google Workspace, ensuring cross-platform compatibility and continuity  
+* Migrated internal operational systems from Microsoft 365 and MacOs to Google Workspace, ensuring cross-platform compatibility and continuity  
 * Managed user access, permissions, and document structure for internal systems used by management teams  
 * Designed and maintained structured cloud-based documentation and access controls to improve data organization and security practices
 

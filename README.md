@@ -8,9 +8,7 @@ I am developing hands-on experience in **cloud infrastructure, networking, and s
 
 ## Education & Certifications
 <div>
-<img src="https://img.shields.io/badge/-WGU%20BS%20Cloud%20%26%20Network%20Engineering%20(In%20Progress)-00ADEE?&style=for-the-badge&logo=Western-Governors-University&logoColor=white" />
-<a href="https://github.com/pbobbitt/pbobbitt/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf">
-  <img src="https://img.shields.io/badge/-CompTIA%20A%2B%20(Passed%203/2026)-E31837?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+ Certificate" />
+</a> <img src="https://img.shields.io/badge/Education-WGU%20BS%20Cloud%20%26%20Network%20Engineering%20Student-00ADEE?style=for-the-badge&logo=google-scholar&logoColor=white" /> <a href="https://github.com/pbobbitt/pbobbitt/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf"><img src="https://img.shields.io/badge/Certification-CompTIA%20A%2B-E31837?style=for-the-badge&logo=comptia&logoColor=white" /></a>
 </a>
 </div>
 
@@ -18,11 +16,11 @@ I am developing hands-on experience in **cloud infrastructure, networking, and s
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Disk Management / File System Optimization          | [Storage Tiering & Partition Management Lab (Coming Soon)](#)   |
-| Active Directory / User Lifecycle Management            | [Windows Server Domain & RBAC Implementation (Coming Soon)](#) |
-| ITSM / User Support Documentation        | [Help Desk Ticketing & Knowledge Base Simulation (Coming Soon)](#) |
+| Domain Integration & Centralized Management | [IT Support Lab Series Part 1: Windows Server 2025 & Active Directory Infrastructure](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-1-infrastructure) |
+| Active Directory / Identity & Access Management (IAM) | [IT Support Lab Series Part 2: Identity & Access Management With Active Directory](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-2-active-directory) |
+| Help Desk Ticketing & Knowledge Base Simulation | IT Support Lab Series Part 3: Help Desk Operations & Ticketing (In Progress) |
 | Cloud Storage / Data Archiving         | [Google Drive Quota Photos Optimization Lab](https://github.com/pbobbitt/Google-Drive-Quota-Photos-Optimization-Lab) |
-| Enterprise OS Deployment            | [Standardized OS Imaging & Deployment Lab (Coming Soon)](#) |
+| SaaS Administration  | [SaaS Data Lifecycle Management](https://github.com/pbobbitt/SaaS-Storage-Optimization-Data-Lifecycle-Management-Lab) |
 
 ## Tools
 

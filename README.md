@@ -4,19 +4,25 @@
 
 ## Who I Am
 
-IT Support professional and Cloud & Network Engineering student with hands-on experience in **user support, system administration, and workflow automation**.
+IT support professional with hands-on experience supporting end users, managing access, and maintaining internal systems in a fast-paced operations environment. Background in building and improving workflow-driven systems, with a focus on troubleshooting, automation, and system organization. Currently developing skills in system administration, networking, and PowerShell through hands-on labs.
 
 #### I specialize in:
 
-* Troubleshooting user issues while improving underlying systems
-* Automating manual processes to reduce workload and errors
-* Bridging business operations with IT solutions
+* Troubleshooting user issues and supporting day-to-day system operations
+* Building and improving workflow-driven systems to reduce manual work
+* Bridging business operations with practical IT solutions
 
 #### What I’ve Done
 
-* Supported systems managing **10,000+ records**
-* Delivered **L1/L2 IT support** across 150+ users
-* Automated onboarding workflows, reducing manual work by **60–80%**
+* Provided L1/L2-style IT support for 100+ employees
+* Supported systems managing 10,000+ records
+* Automated onboarding workflows, reducing manual work by 60–80%
+
+#### Current Focus
+
+* IT Support / Desktop Support roles
+* Building hands-on experience in Active Directory, networking, and system administration
+* Expanding automation skills with PowerShell and scripting
 
 ## Education & Certifications
 <div>
@@ -60,7 +66,7 @@ IT Support professional and Cloud & Network Engineering student with hands-on ex
 
 #### Applicant Tracking System (ATS) & Workflow Automation
 
-* Built and maintained a system supporting **10,000+ applicants**, integrating APIs, automating onboarding, and reducing manual labor by up to **80%**.
+* Designed and maintained a workflow-based onboarding system supporting 10,000+ applicants, improving efficiency and reducing manual work
 
 #### Google Workspace Administration & Migration
 

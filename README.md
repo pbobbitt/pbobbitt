@@ -40,7 +40,7 @@ I am developing hands-on experience in **cloud infrastructure, networking, and s
 
 ## Projects
 
-### 🛠️ Professional Implementations (Pax Logistix)
+### Professional Implementations (Pax Logistix)
 
 **Google Workspace Cloud Migration**
 > Led the transition of company documentation and operational processes from paper-based systems to **Google Workspace cloud infrastructure**, improving remote accessibility, collaboration, and operational transparency.
@@ -48,7 +48,7 @@ I am developing hands-on experience in **cloud infrastructure, networking, and s
 **Applicant Tracking System (ATS) Deployment**
 > Researched, selected, and implemented two full-scale **Applicant Tracking Systems**, managing vendor evaluation, system configuration, user permissions, and internal adoption.
 
-### 🧪 Technical Labs
+### Technical Labs
 
 [IT Support Lab Series Part 1: Windows Server 2025 & Active Directory Infrastructure](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-1-infrastructure)  
 The primary objective of this phase was to establish a scalable, virtualized Windows Server 2025 Active Directory environment and successfully integrate a Windows 11 Education client workstation. By leveraging Oracle VirtualBox and a custom NAT Network, the project successfully created an isolated sandbox that mimics an enterprise infrastructure.

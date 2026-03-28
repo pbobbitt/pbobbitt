@@ -2,16 +2,20 @@
 <a href="https://linkedin.com/in/patrick-bobbitt"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Who I Am
+
+IT Support professional and Cloud & Network Engineering student with hands-on experience in **user support, system administration, and workflow automation**.
+
 #### I specialize in:
 
-* Turning messy, manual processes into automated systems
-* Supporting users while improving the systems behind the problems
-* Bridging the gap between business operations and IT infrastructure
+* Troubleshooting user issues while improving underlying systems
+* Automating manual processes to reduce workload and errors
+* Bridging business operations with IT solutions
 
-#### What I have done:
-* Built and supported systems managing 10,000+ records
-* Delivered L1/L2 IT support across 150+ users
-* Automated onboarding workflows, reducing manual work by 60–80%
+#### What I’ve Done
+
+* Supported systems managing **10,000+ records**
+* Delivered **L1/L2 IT support** across 150+ users
+* Automated onboarding workflows, reducing manual work by **60–80%**
 
 ## Education & Certifications
 <div>
@@ -55,7 +59,7 @@
 
 #### Applicant Tracking System (ATS) & Workflow Automation
 
-* Built and maintained a system supporting 10,000+ applicants, integrating APIs and automating onboarding workflows to significantly reduce manual effort.
+* Built and maintained a system supporting **10,000+ applicants**, integrating APIs and automating onboarding workflows (60–80% reduction in manual work).
 
 #### Google Workspace Administration & Migration
 

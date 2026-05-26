@@ -17,7 +17,7 @@ IT support professional with hands-on experience supporting end users, managing 
 |-----------------------------------------------|----------------------------|
 | Active Directory / Domain Management | [IT Support Lab Series Part 1: Windows Server 2025 & Active Directory Infrastructure](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-1-infrastructure) |
 | Identity & Access Management (IAM) | [IT Support Lab Series Part 2: Identity & Access Management With Active Directory](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-2-active-directory) |
-| Entra ID / Azure AD | IT Support Lab Series Part 3: Hybrid Cloud Integration to M365 & Entra ID |
+| Entra ID / Azure AD | [IT Support Lab Series Part 3: Hybrid Cloud Integration to M365 & Entra ID](https://github.com/pbobbitt/IT-Support-Lab-Series/tree/main/part-3-hybrid-cloud-integration) |
 | ITSM / Ticketing | IT Support Lab Series Part 4: Help Desk Operations & Ticketing (In Progress) |
 | Cloud Storage & Data Migration | [Cloud Account Quota Management & Data Archival](https://github.com/pbobbitt/Cloud-Account-Quota-Management-And-Data-Archival) |
 | Cloud Storage / Troubleshooting  | [Cloud Storage Troubleshooting](https://github.com/pbobbitt/Cloud-Storage-Troubleshooting) |
